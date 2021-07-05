@@ -1,0 +1,7 @@
+C:\Users\srivatsa.mc\source\repos\DynamicArraySolutionProgram\DynamicArraySolutionProgram\bin\Debug\DynamicArraySolutionProgram.exe.config
+C:\Users\srivatsa.mc\source\repos\DynamicArraySolutionProgram\DynamicArraySolutionProgram\bin\Debug\DynamicArraySolutionProgram.exe
+C:\Users\srivatsa.mc\source\repos\DynamicArraySolutionProgram\DynamicArraySolutionProgram\bin\Debug\DynamicArraySolutionProgram.pdb
+C:\Users\srivatsa.mc\source\repos\DynamicArraySolutionProgram\DynamicArraySolutionProgram\obj\Debug\DynamicArraySolutionProgram.csprojResolveAssemblyReference.cache
+C:\Users\srivatsa.mc\source\repos\DynamicArraySolutionProgram\DynamicArraySolutionProgram\obj\Debug\DynamicArraySolutionProgram.csproj.CoreCompileInputs.cache
+C:\Users\srivatsa.mc\source\repos\DynamicArraySolutionProgram\DynamicArraySolutionProgram\obj\Debug\DynamicArraySolutionProgram.exe
+C:\Users\srivatsa.mc\source\repos\DynamicArraySolutionProgram\DynamicArraySolutionProgram\obj\Debug\DynamicArraySolutionProgram.pdb
