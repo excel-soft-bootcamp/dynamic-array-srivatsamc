@@ -21,13 +21,7 @@ namespace DynamicArraySolutionProgram
             buffer = new int[initialSize];
         }
 
-        public int Capacity
-        {
-            get
-            {
-                return buffer.Length;
-            }
-        }
+       
         public int this[int index]
         {
             set
