@@ -1,8 +1,8 @@
 public class DynamicNumberArray{
 
     int[] buffer;
-    public DynamicArray(){ buffer=new int[5];
-    public DynamicArray(int initialSize){ buffer=new int[initialSize];}
+    public DynamicNumberArray(){ buffer=new int[5];
+    public DynamicNumberArray(int initialSize){ buffer=new int[initialSize];}
     
     public void Set(int index,int value){
         
@@ -16,7 +16,7 @@ public class DynamicNumberArray{
  
  public class Program{
   static void Main(){
-      DynamicNumberArray _dynamic=new DynamicNumberArray();
+      DynamicNumberArray _dynamic=new DynamicNumberArray(2);
       _dynamic[0]=10;
       _dynamic[1]=20;
       _dynamic[2]=30;
